@@ -4,3 +4,5 @@ I hold the following degrees; Master of Science and Bachelor of Science, Compute
 PhD with artificial intelligence as the specialization. 
 
 If something on my github pages makes you feel uncomfortable email me. I will fix it immediately. 
+
+[Online Presence](mehran.carrd.co)
